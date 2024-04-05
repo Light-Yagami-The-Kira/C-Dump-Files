@@ -19,14 +19,14 @@ int main(int argc, char const *argv[])
     // fputc('d', file_ptr);
     // fputs("Hello world\nHow are you bitch!", file_ptr);
     
-    // file_ptr = fopen("test.txt", "r+");
-    // fputs("JEE\n", file_ptr);
+    file_ptr = fopen("test.txt", "r+");
+    fputs("JEEE\n", file_ptr);
     
     // file_ptr = fopen("test.txt", "w+");
     // fputs("JEE_ADVANCED\n", file_ptr);
 
-    file_ptr = fopen("test.txt", "a");
-    fputs("KRISHANU\n", file_ptr);
+    // file_ptr = fopen("test.txt", "a");
+    // fputs("KRISHANU\n", file_ptr);
     
     fclose(file_ptr);
     return 0;
