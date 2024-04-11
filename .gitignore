@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 .vscode\ 
  
  
+=======
+*.vscode
+*.json
+*.exe
+*.vscode/
+.gitignore
+>>>>>>> 64149befc30e90ac65e700bc103b4cb32769c3de

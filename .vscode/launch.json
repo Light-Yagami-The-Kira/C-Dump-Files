@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/krish/Documents/GitHub/C-Dump-Files",
       "program": "c:/Users/krish/Documents/GitHub/C-Dump-Files/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/krish/OneDrive/Documents/Github/C-Dump-Files",
+      "program": "c:/Users/krish/OneDrive/Documents/Github/C-Dump-Files/build/Debug/outDebug",
+>>>>>>> 64149befc30e90ac65e700bc103b4cb32769c3de
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
